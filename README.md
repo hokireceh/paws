@@ -1,6 +1,6 @@
 # AUTO CLAIM FOR PAWS
 
-🔗 **Register**: [Join PAWS now!](https://t.me/garapanairdrop_indonesia)
+🔗 **Register**: [Join PAWS now!](https://t.me/PAWSOG_bot/PAWS?startapp=INowxvp9)
 
 ## 📢 Telegram Group
 

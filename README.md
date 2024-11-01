@@ -13,8 +13,28 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 - If you want to buy a VPS at me, please DM us
 - Disclaimer friends, I use this for personal use. use at your own risk.
 
+## 🚀 Run File
+
+- Linux / Termux
+```
+git clone https://github.com/hokireceh/paws.git
+```
+```
+cd paws
+```
+```
+npm i user-agents cloudscraper axios colors p-limit https-proxy-agent socks-proxy-agent crypto ws
+```
+
+| Run with Proxy and Vps        | Run without Proxy and Vps |
+| -------------------------------- | ------------------- |
+| `main.js` `data.txt` | `proxy.txt` `config.json` |
+
 ## ⚠️ Note
-- If you are confused about how to use it, just join my telegram.
+
+- Get auth data (`query_id=... /user=...`) in the `Application` tab in DevTools.
+- Auto features: Change `false` to `true` in the `config.json` file.
+- Supported commands: `git pull` (Join group to use these commands).
 
 ## 💱 Support Me
 

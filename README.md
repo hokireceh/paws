@@ -7,7 +7,7 @@
 Join our Telegram group to stay updated and get instructions on how to use this tool:
 
 - [Garapan Airdrop - Channel](https://t.me/garapanairdrop_indonesia)
-- [Sobat Ongkang Ongkang - Group](https://t.me/ongkang_ongkang)
+- [AIRDROP FINDER UPDATE - Group](https://t.me/airdrop_finder_update)
 - I recommend you use [VPS Here](https://bit.ly/vps-here)
 - Website with the cheapest proxy price $1/GB [Here](https://dataimpulse.com/?aff=52576)
 - If you want to buy a VPS at me, please DM us

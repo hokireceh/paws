@@ -38,7 +38,7 @@ npm i user-agents cloudscraper axios colors p-limit https-proxy-agent socks-prox
 
 ## 💱 Support Me
 
-- (Global/International): https://sociabuzz.com/vania_gemash/tribe
+- (Global/International): https://trakteer.id/yovica/tip
 - Ton: ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
 - Dogs: ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
 - TRON / USDT (Tron20): ```TChYgcKG6zRwz5FP9UTZrAik3xDPa12M94```
